@@ -21,7 +21,7 @@ header{
     text-align: center;
     background-color: #CEE5D0;
     width: 100%;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 
 header h1{
@@ -34,6 +34,7 @@ header p{
 
 header nav{
     margin-top: 3rem;
+    font-size: large;
 }
 
 header nav ul{
@@ -42,7 +43,7 @@ header nav ul{
 }
 
 header nav ul li a{
-    padding: 10px 10px;
+    padding: 15px 15px;
 }
 
 a.active,
@@ -94,7 +95,7 @@ aside{
     text-align: center;
     margin: auto;
     padding: 2rem;
-    width: 600px;
+    width: 41%;
     height: auto;
     border-radius: 25px;
 }
@@ -175,7 +176,8 @@ footer img{
     aside{
         margin: 5px;
         padding: 2rem;
-        width: 600px;
+        width: auto;
+        /* width: 600px; */
         height: auto;
         border-radius: 25px;
     }
@@ -204,7 +206,7 @@ footer img{
     .card {
         margin: 15px;
         padding: 2rem;
-        width: 600px;
+        width: auto;
         height: auto;
         border-radius: 25px;
         /* width: 100%;
@@ -212,9 +214,9 @@ footer img{
     }
     
     aside{
-        margin: 5px;
+        margin: 12px;
         padding: 2rem;
-        width: 600px;
+        width: auto;
         height: auto;
         border-radius: 25px;
     }
